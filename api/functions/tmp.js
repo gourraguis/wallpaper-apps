@@ -2,8 +2,8 @@ const cloudinary = require('cloudinary').v2
 
 cloudinary.config({
   cloud_name: 'mufido',
-  api_key: '893448423556385',
-  api_secret: 'N-7q7xIuC4qzXNzvebNSGJhRkNk'
+  api_key: '',
+  api_secret: ''
 })
 
 cloudinary.search
